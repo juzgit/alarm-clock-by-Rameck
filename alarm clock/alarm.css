@@ -1,0 +1,55 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body{
+    background-color: rgb(15, 15, 104);
+}
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2{
+    text-align: center;
+}
+
+.container{
+    margin-top: 11rem;
+    margin-left: 37rem;
+    padding: 25px;
+    width: 15rem;
+    height: auto;
+    background-color: rgba(172, 173, 175, 0.719);
+}
+
+#display-clock{
+    text-align: center;
+    font-size: 1.5rem;
+    box-shadow: rgba(240, 240, 245, 0.856);
+    padding: 8px 9px;
+}
+
+#date{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#add-alarms{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-bottom: 9px;
+}
+
+.alarm-input{
+    margin-inline: 2px;
+}
+
+.alarmBtn{
+    background-color: rgb(5, 85, 138);
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    width: fit-content;
+    text-align: center;
+    margin-left: 5rem;
+}
