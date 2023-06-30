@@ -41,14 +41,17 @@ h2{
    }
 
 #add-alarms{
- display: flex;
- align-items: center;
- justify-content: center;
- margin-bottom: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 9px;
 }
 
-.alarm-input{
-    margin-inline: 2px;
+#alarm-input{
+    padding: 7px;
+    width: 4rem;
+    font-size: 1.1rem;
+    color: green;
 }
 
 .alarmBtn{
@@ -58,5 +61,10 @@ h2{
     border-radius: 5px;
     width: fit-content;
     text-align: center;
-    margin-left: 5rem;
+    margin-left: 2.5rem;
 }
+
+.alarm-input{
+    margin-inline: 2px;
+}
+

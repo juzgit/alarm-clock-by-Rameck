@@ -25,6 +25,6 @@ function liveDate(){
 
 liveDate();
 
-
+// putting limit restriction on the input fields 
 
 
