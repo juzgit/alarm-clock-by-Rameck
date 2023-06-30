@@ -20,7 +20,7 @@ function liveDate(){
     let yearNum = rightNow.getFullYear();
 
 
-    currentDate.textContent = dayNum + " / " + monthNum + " / " + yearNum;
+    currentDate.textContent = dayNum + "/" + monthNum + "/" + yearNum;
 }
 
 liveDate();
