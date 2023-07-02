@@ -40,31 +40,6 @@ h2{
     margin-bottom: 8px;
    }
 
-#add-alarms{
-   display: flex;
-   align-items: center;
-   justify-content: center;
-   margin-bottom: 9px;
-}
 
-#alarm-input{
-    padding: 7px;
-    width: 4rem;
-    font-size: 1.1rem;
-    color: green;
-}
 
-.alarmBtn{
-    background-color: rgb(5, 85, 138);
-    color: white;
-    padding: 7px;
-    border-radius: 5px;
-    width: fit-content;
-    text-align: center;
-    margin-left: 2.5rem;
-}
-
-.alarm-input{
-    margin-inline: 2px;
-}
 
