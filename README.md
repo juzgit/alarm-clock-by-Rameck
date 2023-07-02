@@ -1,2 +1,2 @@
-# clock-by-Rameck
+# Live clock-by-Rameck
 Displaying live time
